@@ -1,0 +1,8 @@
+{
+  "name": "HarvestHub",
+  "description": "HarvestHub is an AI-powered farming assistant that provides voice-based answers to farming queries and uses your device's camera to detect crop health issues, offering instant analysis and treatment suggestions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
